@@ -9,5 +9,5 @@ Steps include:
 4. Editing the ReadMe - Done
 5. Adding Ryan T. Moore as a collaborator - Done
 6. Creating an Issue and Assigning it 
-7. Branching, merging and rebasing exercise
+7. Branching, merging and rebasing exercise - Done
 8. Completing practice exercise - Done
